@@ -1,2 +1,2 @@
 # tictactoe
-Simple Tic-Tac-Toe game, Python project that runs on console.
+Python project, simple Tic-Tac-Toe game.
